@@ -1,21 +1,21 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IpNXraBXBQQRFzxg6p/giphy.gif" width="100" style="border-radius: 50%;"/>
-  <h1>Muhammad Zohaib Nasir</h1>
+  <h1>Muhammad</h1>
   <p>Senior Machine Learning Engineer & AI Innovation Leader</p>
   
   <div id="badges" style="display: flex; justify-content: center; gap: 10px;">
-    <a href="https://www.linkedin.com/in/m-zohaibnasir/">
+    <!-- <a href="https://www.linkedin.com/in/m-zohaibnasir/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/m_zohaibnasir">
+    </a> -->
+    <!-- <a href="https://twitter.com/m_zohaibnasir">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
-    </a>
-    <a href="https://medium.com/@inthediary">
+    </a> -->
+    <!-- <a href="https://medium.com/@inthediary">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-    </a>
-    <a href="mailto:m.zohaibnasir6@gmail.com">
+    </a> -->
+    <!-- <a href="mailto:m.zohaibnasir6@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
+    </a> -->
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=mzohaibnasir&style=flat&color=0077B5&label=Profile+Views" alt="Profile Views" style="margin-top: 10px;"/>
@@ -28,7 +28,7 @@
 ---
 
 ### 👤 Professional Profile
-Greetings! I am Muhammad Zohaib Nasir, a seasoned Senior ML/AI Engineering Leader based in Pakistan, with over six years of expertise in spearheading AI-driven transformations for Fortune 500 enterprises and dynamic organizations.
+Greetings! I am Muhammad, a seasoned Senior ML/AI Engineering Leader based in Pakistan, with over six years of expertise in spearheading AI-driven transformations for Fortune 500 enterprises and dynamic organizations.
 
 - **Core Expertise**: Architecting scalable AI systems, including autonomous multi-agent frameworks, computer vision solutions, generative AI applications, and IoT-integrated automations.
 - **Key Achievements**: Led the development of flagship products such as **Unlimit** (a 24/7 AI-powered cashierless retail system), **Genesys & LabelRx** (executive multi-agent orchestration reducing decision latency by 85%), and **Althea AI** (voice-first healthcare platform saving over 600,000 staff minutes).
